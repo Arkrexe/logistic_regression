@@ -29,21 +29,10 @@ Build a binary classification model using **Logistic Regression** to predict tar
    - Precision & Recall  
    - ROC-AUC Curve  
    - Threshold tuning  
-6. Explained and visualized the Sigmoid function  
 
 ---
 
 ## 📊 Output Visuals
 - Confusion Matrix  
 - ROC Curve  
-- Sigmoid Function Plot  
-
 ---
-
-## 💬 Key Concepts Covered
-- Logistic vs Linear Regression  
-- Sigmoid Function  
-- Precision vs Recall  
-- ROC-AUC  
-- Threshold Selection  
-- Class Imbalance Handling  
